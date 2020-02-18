@@ -1,0 +1,32 @@
+{
+  "name": "emailreport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horup/emailreport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horup/emailreport/issues"
+  },
+  "homepage": "https://github.com/horup/emailreport#readme",
+  "dependencies": {
+    "@types/express": "^4.17.2",
+    "@types/react": "^16.9.20",
+    "@types/react-dom": "^16.9.5",
+    "@types/styled-components": "^4.4.3",
+    "express": "^4.17.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-components": "^5.0.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
